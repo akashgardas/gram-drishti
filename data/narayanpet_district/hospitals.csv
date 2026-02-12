@@ -1,0 +1,51 @@
+hospital_id,name,type,latitude,longitude
+0,Local Medical Center,hospital,16.7468035,77.494047
+1,Siddartha Hospitals,hospital,16.7474557,77.4902572
+2,Vanitha,clinic,16.7417928,77.4999342
+3,Aishwarya Nursing Home,hospital,16.7412593,77.4942528
+4,"Primary Health Centre, Utkoor",clinic,16.651124,77.5181474
+5,"Government Naturopathy Dispensary, Maddur (NRHM)",doctors,16.8572698,77.611881
+6,"Area Hospital, Narayanpet",hospital,16.7443351,77.4976726
+7,"Community Health Centre, Makthal",clinic,16.5033503,77.5128096
+8,"Government Ayurveda Dispensary, Marrikal",doctors,16.6030073,77.7146003
+9,"Primary Health Centre, Damargidda",clinic,16.820736,77.5083907
+10,"Primary Health Centre, Kotakonda",clinic,16.7570872,77.6410246
+11,"Post Partum Unit (PPU), Narayanpet",hospital,16.7443659,77.4975613
+12,"Sub Centre, Teelair",clinic,16.6155651,77.7488936
+13,Vanitha Hospital,hospital,16.742,77.49925
+14,Sneha hospital,hospital,16.74448,77.49608
+15,Sanganbasappa Mangalgi Memorial Hospital(SMH),hospital,16.74142,77.497
+16,Sai Rathna Hospital,hospital,16.73999,77.49788
+17,Ravi's Children Hospital,hospital,16.7439774,77.4951726
+18,Ravi children's hospital - Narayanpet,hospital,16.74085,77.5045388
+19,NITHYA HOSPITAL,hospital,16.74097,77.501
+20,Moqhtar Clinic,clinic,16.7454639,77.4932349
+21,KARUNA HOSPITAL,hospital,16.7414811,77.5006121
+22,"kidz children Hospital,Narayanpet",hospital,16.74102,77.49976
+23,"Govt Unani Dispensary, Narayanpet H.Qtrs",doctors,16.74419,77.49306
+24,Govt. Leprosy Hospital,hospital,16.7420357,77.4833029
+25,Bhagyavanthi Clinic,clinic,16.7435144,77.494528
+26,"Aditya hospital, Narayanpet",hospital,16.74398,77.49656
+27,Surya Clinic,clinic,16.6026582,77.7270056
+28,Sri Sai Nursing Home,hospital,16.5068944,77.5116463
+29,Manaiah Memorial Clinic,clinic,16.5061105,77.5124073
+30,Amma Clinic,clinic,16.9865385,77.7122658
+31,Dr. Venkataiah Clinic,clinic,16.9869499,77.7121351
+32,"Govt Unani Dispensary, Narva (NRHM)",doctors,16.475251,77.6815052
+33,"Primary Health Centre, Utkoor",clinic,16.6484758,77.5116603
+34,"Government Ayurveda Dispensary, Hindupur",doctors,16.4143249,77.3471738
+35,"Government Ayurveda Dispensary, Kanmanoor",doctors,16.5561885,77.7008982
+36,"Govt.Ayurveda Dispensary, Gundmal",doctors,16.8924428,77.7136977
+37,"Primary Health Centre, Damargidda",clinic,16.8187398,77.5031121
+38,"Govt.Homoeo Dispensary, Dhanwada (NRHM)",doctors,16.3823206,77.3930093
+39,"Community Health Center, Makthal",hospital,16.5021372,77.5074809
+40,"Primary Health Centre, Kotakonda",clinic,16.756684,77.6438409
+41,"Primary Health Centre, Gundumal",clinic,16.8953071,77.7122921
+42,"Community Health Centre,  Kosgi",hospital,16.9877811,77.7169366
+43,CHC Maddur,hospital,16.860184,77.6120579
+44,"Primary Health Centre, Narwa",clinic,16.5001774,77.6679182
+45,"Primary Health Centre, Pulimamidi",clinic,16.5636093,77.5702829
+46,"Government Ayurveda Dispensary, Kotakonda",doctors,16.7583302,77.6416442
+47,"Area Hospital, Narayanpet",hospital,16.7445173,77.4960119
+48,"Government Homoeo Dispensary, Utkoor (NRHM)",doctors,16.6511104,77.5180126
+49,Local Medical Center,hospital,16.8528278,77.5215032

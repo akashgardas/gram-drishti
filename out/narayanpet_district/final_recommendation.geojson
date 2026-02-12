@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "final_recommendation",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "rank": 1, "pop_covered": 16153, "status": "Proposed" }, "geometry": { "type": "Point", "coordinates": [ 77.663926000000188, 16.990022500000091 ] } },
+{ "type": "Feature", "properties": { "rank": 2, "pop_covered": 15879, "status": "Proposed" }, "geometry": { "type": "Point", "coordinates": [ 77.663926000000188, 16.900022500000077 ] } },
+{ "type": "Feature", "properties": { "rank": 3, "pop_covered": 15070, "status": "Proposed" }, "geometry": { "type": "Point", "coordinates": [ 77.533926000000122, 16.890022500000075 ] } },
+{ "type": "Feature", "properties": { "rank": 4, "pop_covered": 10741, "status": "Proposed" }, "geometry": { "type": "Point", "coordinates": [ 77.613926000000163, 16.92002250000008 ] } },
+{ "type": "Feature", "properties": { "rank": 5, "pop_covered": 8325, "status": "Proposed" }, "geometry": { "type": "Point", "coordinates": [ 77.693926000000204, 16.850022500000069 ] } }
+]
+}
