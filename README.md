@@ -38,7 +38,7 @@ Gram-Drishti replaces "gut feeling" with **Data-Driven Logic**:
 │   ├── isochrone_analysis.py # Calculates drive-time zones
 │   └── decision_engine.py  # Runs the optimization logic
 └── requirements.txt        # Dependencies
-
+```
 ## 🚀 How to Run Locally
 
 1.  **Clone the Repo:**
