@@ -1,8 +1,11 @@
-numpy
+streamlit
 pandas
 geopandas
 folium
-shapely
 streamlit-folium
-osmnx
+plotly
+shapely
 networkx
+osmnx
+matplotlib
+rtree
